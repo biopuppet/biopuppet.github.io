@@ -17,11 +17,8 @@ sidebar-avatar: /img/sidebar-avatar.jpg      # use absolute URL, seeing it's use
 
 # SNS settings
 RSS: false
-# weibo_username:     biopuppet
-# zhihu_username:     biopuppet
 github_username:    biopuppet
-# jianshu_username:   e71990ada2fd
-#twitter_username:   biopuppet
+telegram_username:   biopuppet
 
 
 

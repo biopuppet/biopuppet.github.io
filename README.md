@@ -1,2 +1,2 @@
 ## Don't README
-https://biopuppet.github.io/
+Read https://biopuppet.github.io/
